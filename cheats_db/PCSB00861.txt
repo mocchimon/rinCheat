@@ -38,5 +38,67 @@
 @0x83F51B54 @0x63 @1
 #x99 Usable Item Slot 19
 @0x83F51B74 @0x63 @1
+#x99 useable item slot 20
+@0x83F51B94 @0x63 @1
+#x99 useable item slot 21
+@0x83F51BB4 @0x63 @1
+#x99 useable item slot 22
+@0x83F51BD4 @0x63 @1
+#x99 useable item slot 23
+@0x83F51BF4 @0x63 @1
+#x99 useable item slot 24
+@0x83F51C14 @0x63 @1
+#x99 useable item slot 25
+@0x83F51C34 @0x63 @1
+#x99 useable item slot 26
+@0x83F51C54 @0x63 @1
+#x99 useable item slot 27
+@0x83F51C74 @0x63 @1
+#x99 useable item slot 28
+@0x83F51C94 @0x63 @1
+#x99 useable item slot 29
+@0x83F51CB4 @0x63 @1
+#x99 useable item slot 30
+@0x83F51CD4 @0x63 @1
+#x99 useable item slot 31
+@0x83F51B94 @0x63 @1
+#x99 useable item slot 32
+@0x83F51BB4 @0x63 @1
+#x99 useable item slot 33
+@0x83F51BD4 @0x63 @1
+#x99 useable item slot 34
+@0x83F51BF4 @0x63 @1
+#x99 useable item slot 35
+@0x83F51C14 @0x63 @1
+#x99 useable item slot 36
+@0x83F51C34 @0x63 @1
+#x99 useable item slot 37
+@0x83F51C54 @0x63 @1
+#x99 useable item slot 38
+@0x83F51C74 @0x63 @1
+#x99 useable item slot 39
+@0x83F51C94 @0x63 @1
+#x99 useable item slot 40
+@0x83F51D14 @0x63 @1
+#x99 useable item slot 41
+@0x83F51D34 @0x63 @1
+#x99 useable item slot 42
+@0x83F51D54 @0x63 @1
+#x99 useable item slot 43
+@0x83F51D74 @0x63 @1
+#x99 useable item slot 44
+@0x83F51D94 @0x63 @1
+#x99 useable item slot 45
+@0x83F51DB4 @0x63 @1
+#x99 useable item slot 46
+@0x83F51DD4 @0x63 @1
+#x99 useable item slot 47
+@0x83F51DF4 @0x63 @1
+#x99 useable item slot 48
+@0x83F51E14 @0x63 @1
+#x99 useable item slot 49
+@0x83F51E34 @0x63 @1
+#x99 useable item slot 50
+@0x83F51E54 @0x63 @1
 #Brave Point A in Slot 1 (Auto Corrects)
 @0x83F5192C @0x36 @1
